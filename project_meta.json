@@ -1,10 +1,17 @@
 {
-  "seq": 13,
   "title": "Building a Lightweight, Cost-Effective SOC Capability for a 50-Person Logistics SME",
-  "slug": "building-a-lightweight-cost-effective-soc-capability-fo",
+  "old_slug": "building-a-lightweight-cost-effective-soc-capability-fo",
+  "slug": "lightweight-soc-for-smes",
   "folder": "Building_A_Lightweight_Cost_Effective_Soc_Capability",
   "kind": "detect",
-  "body_words": 252,
+  "body_words": 323,
+  "source": "SCI700",
   "project_id": "Project 4",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
